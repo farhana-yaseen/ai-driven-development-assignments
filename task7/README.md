@@ -26,7 +26,7 @@ This is all the thinking you did while building:
 
 # **Short answer of core concepts of `/constitution`, `/specify`, `/plan`, `/tasks`, `/implement`**
 
-## **•	`/constitution`: **
+## **•	`/constitution`:**
 
 Like deciding: “What does a good research paper look like? What standards must we follow?” It’s the quality rulebook.	
     
